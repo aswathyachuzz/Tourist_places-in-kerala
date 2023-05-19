@@ -1,4 +1,4 @@
-# first_app
+# Kerala_Tourist_Places
 
 A new Flutter project.
 
