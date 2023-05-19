@@ -14,7 +14,7 @@ void main() {
           ),
           child: const Center(
             child: Text(
-              'Hello Pappuu',
+              'Kerala',
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 30,
